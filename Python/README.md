@@ -63,16 +63,16 @@ Focused on foundational Python concepts: **variables**, **input/output**, and **
 Following a recent employee survey, senior leadership requested ***a data-driven approach to improving employee retention***.
 
 - Objective:
-Analyze employee survey data and build a predictive model to identify factors influencing employee attrition and predict whether an employee is likely to leave the company.
+ Analyze employee survey data and build a predictive model to identify factors influencing employee attrition and predict whether an employee is likely to leave the company.
 
 - Approach & Methods:
-- Performed data cleaning and exploratory analysis on HR survey data
-- Analyzed key features such as: Department, Number of projects, Average monthly, working hours, Job satisfaction and tenure, Built a regression model to predict employee churn, Evaluated model performance, and interpreted key predictors.
+ - Performed data cleaning and exploratory analysis on HR survey data
+ - Analyzed key features such as: Department, Number of projects, Average monthly, working hours, Job satisfaction and tenure, Built a regression model to predict employee churn, Evaluated model performance, and interpreted key predictors.
 
 Key Outcomes
--Identified workload, project count, and job satisfaction as major drivers of attrition
--Provided actionable, data-backed recommendations to support retention strategies
--Demonstrated the use of predictive analytics to solve a real-world HR business problem
+ -Identified workload, project count, and job satisfaction as major drivers of attrition
+ -Provided actionable, data-backed recommendations to support retention strategies
+ -Demonstrated the use of predictive analytics to solve a real-world HR business problem
 
 - Skills Demonstrated
 -Business-focused data analysis
@@ -83,5 +83,6 @@ Key Outcomes
 
  ## Summary
  These projects demonstrste a wide range of Python skill from basic programming concepts like loops and functions to real world applications such as data cleaning, analysis, web scraping, and predictive modelling. They reflect my strong foundation in data handling using Pandas, visualisation with Matplotlib and Seaborn, abnd working with external data sources. Collectively, these projects showcase practical, hands-on experience relevant to data analysis, automation, and entry-level data science roles.
+
 
 
