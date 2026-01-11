@@ -57,7 +57,7 @@ Focused on foundational Python concepts: **variables**, **input/output**, and **
 
 ---
 
-### 6. Predictive Modeling – Employee Retention & Churn Prediction
+### 6. Predictive Modelling – Employee Retention & Churn Prediction
 - Salifort Motors is a fictional French-based alternative energy vehicle manufacturer with a global workforce of over 100,000 employees. The company operates at the intersection of alternative energy and automotive innovation, producing electric, solar, algae, and hydrogen-based vehicles.
 
 Following a recent employee survey, senior leadership requested ***a data-driven approach to improving employee retention***.
@@ -69,7 +69,7 @@ Following a recent employee survey, senior leadership requested ***a data-driven
  - Performed data cleaning and exploratory analysis on HR survey data
  - Analyzed key features such as: Department, Number of projects, Average monthly, working hours, Job satisfaction and tenure, Built a regression model to predict employee churn, Evaluated model performance, and interpreted key predictors.
 
--Key Outcomes
+- Key Outcomes
   - Identified workload, project count, and job satisfaction as major drivers of attrition
   - Provided actionable, data-backed recommendations to support retention strategies
   - Demonstrated the use of predictive analytics to solve a real-world HR business problem
@@ -83,6 +83,7 @@ Following a recent employee survey, senior leadership requested ***a data-driven
 
  ## Summary
  These projects demonstrste a wide range of Python skill from basic programming concepts like loops and functions to real world applications such as data cleaning, analysis, web scraping, and predictive modelling. They reflect my strong foundation in data handling using Pandas, visualisation with Matplotlib and Seaborn, abnd working with external data sources. Collectively, these projects showcase practical, hands-on experience relevant to data analysis, automation, and entry-level data science roles.
+
 
 
 
