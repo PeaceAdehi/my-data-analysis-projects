@@ -5,7 +5,8 @@ These projects reflect my growing ability to clean, analyse, and visualize data 
 
 # Skills & Tools
 SQL: Data cleaning, calculated fields, joins, exploratory analysis
-Python: Data scraping, data wrangling, visualization (Pandas, NumPy,Matplotlib,BeautifulSoup)
+Python: Data scraping(Requests, BeautifulSoup), data wrangling, visualization(Matplotlib, Seaborn)
+Predictive Modeling Tools: Pandas, NumPy, scikit-learn (regression, classification, model evaluation), Statsmodels 
 Excel: Lookup functions, formulas, charts, pivot tables,  Data cleaning, conditional formatting,  dashboards
 Tableau: Interactive dashboards, calculated fields and bins, joins
 Power BI: Dynamic reports and  dashboards
@@ -25,11 +26,9 @@ Power BI: Dynamic reports and  dashboards
   Created interactive dashboards using pivot tables, and visual techniques to summarise business insights.
 
   ## Python Projects
-  
-
-
-
-
+  **Data cleaning and transformation using Pandas**, **Exploratory data analysis (EDA)**, 
+  **Data wrangling and analysis with Pandas and NumPy**, **Data visualization with Matplotlib and Seaborn**, **Web data collection using Requests and BeautifulSoup**, **Predictive modeling and regression analysis using scikit-learn**, **Writing clean, reusable code with functions and loops**, **Creating executive summaries for stakeholders**
+Used Python to perform data cleaning, exploratory analysis, visualization, web scraping, and predictive modeling on multiple datasets.
 
 ## About Me
-I am an aspiring data analyst with a strong interest in transforming raw data into actionable insights. This repository showcases my hands-on learning journey through real-world projects, applying tools like SQL, Python, Excel, Tableau, Power BI. It serves as both a portfolio of my work and a space to demonstrate my growing analytical and problem solving skills to potential employers and collaborators. 
+I am an aspiring data analyst with a strong interest in transforming raw data into actionable insights. This repository showcases my hands-on learning journey through real-world projects, applying tools like SQL, Python, Excel, Tableau, Power BI, and predictive modelling. It serves as both a portfolio of my work and a space to demonstrate my growing analytical and problem solving skills to potential employers, and collaborators. 
