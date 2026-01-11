@@ -69,20 +69,21 @@ Following a recent employee survey, senior leadership requested ***a data-driven
  - Performed data cleaning and exploratory analysis on HR survey data
  - Analyzed key features such as: Department, Number of projects, Average monthly, working hours, Job satisfaction and tenure, Built a regression model to predict employee churn, Evaluated model performance, and interpreted key predictors.
 
-Key Outcomes
- -Identified workload, project count, and job satisfaction as major drivers of attrition
- -Provided actionable, data-backed recommendations to support retention strategies
- -Demonstrated the use of predictive analytics to solve a real-world HR business problem
+-Key Outcomes
+  - Identified workload, project count, and job satisfaction as major drivers of attrition
+  - Provided actionable, data-backed recommendations to support retention strategies
+  - Demonstrated the use of predictive analytics to solve a real-world HR business problem
 
 - Skills Demonstrated
--Business-focused data analysis
--Predictive modeling with Python
--Translating analytical results into actionable insights
+ - Business-focused data analysis
+ - Predictive modeling with Python
+ - Translating analytical results into actionable insights
 
 ---
 
  ## Summary
  These projects demonstrste a wide range of Python skill from basic programming concepts like loops and functions to real world applications such as data cleaning, analysis, web scraping, and predictive modelling. They reflect my strong foundation in data handling using Pandas, visualisation with Matplotlib and Seaborn, abnd working with external data sources. Collectively, these projects showcase practical, hands-on experience relevant to data analysis, automation, and entry-level data science roles.
+
 
 
 
