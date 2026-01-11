@@ -31,4 +31,4 @@ These projects reflect my growing ability to clean, analyse, and visualize data 
  Used Python to perform data cleaning, exploratory analysis, visualization, web scraping, and predictive modeling on multiple datasets.
 
 ## About Me
-I am an aspiring data analyst with a strong interest in transforming raw data into actionable insights. This repository showcases my hands-on learning journey through real-world projects, applying tools like SQL, Python, Excel, Tableau, Power BI, and predictive modelling. It serves as both a portfolio of my work and a space to demonstrate my growing analytical and problem solving skills to potential employers, and collaborators. 
+I am an aspiring data analyst with a strong interest in transforming raw data into actionable insights. This repository showcases my hands-on learning journey through real-world projects, applying tools like SQL, Python, Excel, Tableau, Power BI, and predictive modeling. It serves as both a portfolio of my work and a space to demonstrate my growing analytical and problem solving skills to potential employers, and collaborators. 
